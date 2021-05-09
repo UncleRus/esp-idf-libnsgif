@@ -1,4 +1,4 @@
-# esp-idf-libnsgif
+# Libnsgif for ESP-IDF
 
 ## What is Libnsgif?
 
@@ -21,7 +21,7 @@ Or add it as submodule:
 ```
 cd my_esp_project/components
 git submodule add https://github.com/UncleRus/esp-idf-libnsgif.git libnsgif
-git submodule --init --recursive
+git submodule update --init --recursive
 ```
 
 ## Links
