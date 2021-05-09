@@ -1,0 +1,3 @@
+[submodule "libnsgif"]
+	path = libnsgif
+	url = https://git.netsurf-browser.org/libnsgif.git
