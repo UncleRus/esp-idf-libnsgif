@@ -1,6 +1,6 @@
 idf_component_register(
     SRCS
-        libnsgif/src/libnsgif.c
+        libnsgif/src/gif.c
         libnsgif/src/lzw.c
     INCLUDE_DIRS
         libnsgif/include
