@@ -30,7 +30,7 @@ See [example](https://github.com/UncleRus/EvLamp/blob/master/main/effects/gif.c)
 
 ## Links
 
-https://www.netsurf-browser.org/projects/libnsgif
+https://www.netsurf-browser.org/projects/libnsgif/
 
 ## TODO
 
